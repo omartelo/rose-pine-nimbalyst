@@ -47,15 +47,15 @@ Then:
 
 ### Rosé Pine
 
-> _Screenshot placeholder — upload to `assets/rose-pine.png`._
+<img alt="Rosé Pine with Nimbalyst" src="./assets/rose-pine.png" />
 
 ### Rosé Pine Moon
 
-> _Screenshot placeholder — upload to `assets/rose-pine-moon.png`._
+<img alt="Rosé Pine Moon with Nimbalyst" src="./assets/rose-pine-moon.png" />
 
 ### Rosé Pine Dawn
 
-> _Screenshot placeholder — upload to `assets/rose-pine-dawn.png`._
+<img alt="Rosé Pine Dawn with Nimbalyst" src="./assets/rose-pine-dawn.png" />
 
 ## Thanks to
 
