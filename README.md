@@ -13,7 +13,19 @@
 
 ## Usage
 
-### Linux
+### Install via Extension Marketplace (recommended)
+
+1. Open Nimbalyst → **Settings → Extension Marketplace**.
+2. Scroll to the **Install from GitHub** section.
+3. Paste the repository URL: `https://github.com/omartelo/rose-pine-nimbalyst`
+4. Click **Install**.
+5. Open the theme picker in the navigation gutter and select one of the variants.
+
+### Manual install
+
+If you prefer to install manually, clone the repository into your user extensions folder.
+
+#### Linux
 
 ```bash
 mkdir -p ~/.config/@nimbalyst/electron/extensions
@@ -21,7 +33,7 @@ git clone https://github.com/omartelo/rose-pine-nimbalyst.git \
   ~/.config/@nimbalyst/electron/extensions/rose-pine
 ```
 
-### macOS
+#### macOS
 
 ```bash
 mkdir -p ~/Library/Application\ Support/@nimbalyst/electron/extensions
@@ -29,7 +41,7 @@ git clone https://github.com/omartelo/rose-pine-nimbalyst.git \
   ~/Library/Application\ Support/@nimbalyst/electron/extensions/rose-pine
 ```
 
-### Windows (PowerShell)
+#### Windows (PowerShell)
 
 ```powershell
 $dir = "$env:APPDATA\@nimbalyst\electron\extensions"
