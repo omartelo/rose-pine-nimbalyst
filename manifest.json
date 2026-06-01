@@ -9,7 +9,7 @@
   "contributions": {
     "themes": [
       {
-        "id": "rose-pine-dark",
+        "id": "rose-pine",
         "name": "Rosé Pine",
         "isDark": true,
         "colors": {
@@ -36,7 +36,7 @@
         }
       },
       {
-        "id": "rose-pine-moon-dark",
+        "id": "rose-pine-moon",
         "name": "Rosé Pine Moon",
         "isDark": true,
         "colors": {
